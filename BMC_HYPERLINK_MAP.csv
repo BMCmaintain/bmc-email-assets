@@ -1,0 +1,27 @@
+email,title,destination,template
+01,01 Introduction,https://www.bmc-ltd.co.uk/,01_Introduction.html
+02,02 Services at a Glance,https://www.bmc-ltd.co.uk/,02_Services_at_a_Glance.html
+03,03 Fast Response Times,https://www.bmc-ltd.co.uk/reactive-maintenance/,03_Fast_Response_Times.html
+04,04 Planned Preventative Maintenance,https://www.bmc-ltd.co.uk/planned-maintenance/,04_Planned_Preventative_Maintenance.html
+05,05 Sectors We Work In,https://www.bmc-ltd.co.uk/about-us/,05_Sectors_We_Work_In.html
+06,06 Case Study 1,https://www.bmc-ltd.co.uk/reactive-maintenance/,06_Case_Study_1.html
+07,07 Compliance Accreditations,https://www.bmc-ltd.co.uk/about-us/,07_Compliance_Accreditations.html
+08,08 Meet the Team,https://www.bmc-ltd.co.uk/about-us/,08_Meet_the_Team.html
+09,09 Empty Property Turnarounds,https://www.bmc-ltd.co.uk/refurbishments/,09_Empty_Property_Turnarounds.html
+10,10 Client Testimonial,https://www.bmc-ltd.co.uk/reactive-maintenance/,10_Client_Testimonial.html
+11,11 Winter Readiness,https://www.bmc-ltd.co.uk/grounds-maintenance/,11_Winter_Readiness.html
+12,12 Maintenance Checklist,https://www.bmc-ltd.co.uk/planned-maintenance/,12_Maintenance_Checklist.html
+13,13 Case Study 2,https://www.bmc-ltd.co.uk/refurbishments/,13_Case_Study_2.html
+14,14 Cost and Value,https://www.bmc-ltd.co.uk/planned-maintenance/,14_Cost_and_Value.html
+15,15 Health and Safety,https://www.bmc-ltd.co.uk/about-us/,15_Health_and_Safety.html
+16,16 Book a Call,https://www.bmc-ltd.co.uk/contact/,16_Book_a_Call.html
+17,17 Emergency Out of Hours,https://www.bmc-ltd.co.uk/helpdesk/,17_Emergency_Out_of_Hours.html
+18,18 Reporting Communication,https://www.bmc-ltd.co.uk/helpdesk/,18_Reporting_Communication.html
+19,19 Case Study 3,https://www.bmc-ltd.co.uk/planned-maintenance/,19_Case_Study_3.html
+20,20 FAQs,https://www.bmc-ltd.co.uk/contact/,20_FAQs.html
+21,21 Coverage Area,https://www.bmc-ltd.co.uk/contact/,21_Coverage_Area.html
+22,22 Free Site Survey,https://www.bmc-ltd.co.uk/contact/,22_Free_Site_Survey.html
+23,23 Testimonial Roundup,https://www.bmc-ltd.co.uk/about-us/,23_Testimonial_Roundup.html
+24,24 Frameworks Approved Supplier,https://www.bmc-ltd.co.uk/about-us/,24_Frameworks_Approved_Supplier.html
+25,25 Offer Reminder,https://www.bmc-ltd.co.uk/contact/,25_Offer_Reminder.html
+26,26 Stay in Touch,https://www.bmc-ltd.co.uk/contact/,26_Stay_in_Touch.html
